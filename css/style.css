@@ -6,8 +6,8 @@
 }
 
 :root {
-    --background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
-    --icon-color: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    --background: Black;
+    --icon-color: linear-gradient(135deg, #ff9a3c 0%, #ff6a00 100%);
     --card-color: rgba(255, 255, 255, 0.05);
 }
 
